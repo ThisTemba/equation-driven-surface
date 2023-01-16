@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"3ad63087-9257-4d2c-bfcb-f001d81d2356",
+	"author":	"Temba Mateke",
+	"description":	{
+		"":	"This add-in plots surfaces specified by equations of the form z = f(x,y)"
+	},
+	"version":	"1.1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
